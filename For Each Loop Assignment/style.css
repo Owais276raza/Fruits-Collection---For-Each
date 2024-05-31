@@ -1,0 +1,49 @@
+body{
+    /* background-color:cornflowerblue; */
+background-image: url("https://tse1.mm.bing.net/th?id=OIP.K87NaqOGk_Ec5zUwHmGY2gHaEo&pid=Api&P=0&h=220");
+background-repeat: no-repeat;
+background-size: cover;
+}
+.top_heading{
+    color: white;
+    text-align: center;
+    font-size: 3em;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-top: 1em;
+    text-shadow: -2px -2px 5px black,
+    2px 2px 5px black;
+    text-decoration: underline;
+}
+.bottom_Heading{
+    color: white;
+    text-align: center;
+    font-size: 2em;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    /* margin-top: 1em; */
+    text-shadow: -2px -2px 5px black,
+    2px 2px 5px black;
+    text-decoration: underline;
+    word-spacing: 10px;
+    margin-bottom: 1em;
+}
+.ammu{
+    text-align: center;
+ }
+.ammu button{
+    margin-right: 15px;
+    padding: 5px 15px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    
+}
+.ubdate{
+    border: 2px solid green;
+    background-color: green;
+    color: white;
+}
+
+.delete{
+    border: 2px solid red;
+    background-color:red;
+    color: white;
+}
